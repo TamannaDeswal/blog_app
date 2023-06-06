@@ -1,0 +1,18 @@
+current directory: C:/Users/LENOVO/Desktop/blog_demo/vendor/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+
+current directory: C:/Users/LENOVO/Desktop/blog_demo/vendor/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20230606-1988-ypnqft sitelibdir\=./.gem.20230606-1988-ypnqft clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: C:/Users/LENOVO/Desktop/blog_demo/vendor/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20230606-1988-ypnqft sitelibdir\=./.gem.20230606-1988-ypnqft
+make: Nothing to be done for 'all'.
+
+current directory: C:/Users/LENOVO/Desktop/blog_demo/vendor/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20230606-1988-ypnqft sitelibdir\=./.gem.20230606-1988-ypnqft install
+make: Nothing to be done for 'install'.
+
+current directory: C:/Users/LENOVO/Desktop/blog_demo/vendor/bundle/ruby/3.2.0/gems/nio4r-2.5.9/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20230606-1988-ypnqft sitelibdir\=./.gem.20230606-1988-ypnqft clean
+make: *** No rule to make target 'clean'.  Stop.
